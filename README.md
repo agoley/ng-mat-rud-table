@@ -1,4 +1,4 @@
-# ng2-mat-rud-table
+# ng-mat-rud-table
 
 Angular data table component with RUD (read, update, delete) capabilites. Built with material design components.
 
